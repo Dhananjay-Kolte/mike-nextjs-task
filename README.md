@@ -13,11 +13,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Screenshots
 
-### With side bar
-![Home Page](/screenshots/with-side-bar.png)
+### With Sidebar
+![With Sidebar](./public/screenshots/with-side-bar.png)
 
-### without side bar
-![Mobile View](/screenshots/without-side-bar.png)
+### Without Sidebar
+![Without Sidebar](./public/screenshots/without-side-bar.png)
 
 ## Prerequisites
 
