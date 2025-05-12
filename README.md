@@ -14,10 +14,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Screenshots
 
 ### With side bar
-![Home Page](./Pictures/Screenshots/with-side-bar.png)
+![Home Page](/screenshots/with-side-bar.png)
 
 ### without side bar
-![Mobile View](./Pictures/Screenshots/without-side-bar.png)
+![Mobile View](/screenshots/without-side-bar.png)
 
 ## Prerequisites
 
